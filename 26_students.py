@@ -1,4 +1,7 @@
 with open("students.csv") as file:
   for line in file:
-    row = line.rstrip().split(",")
-    print(f"{row[0]} is  in {row[1]}")
+    name , classs = line.rstrip().split(",")
+    print(f"{name} is  in {classs}")
+
+
+#did it usind dictionary and lists in next one
