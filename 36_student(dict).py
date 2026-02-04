@@ -5,7 +5,7 @@ def main():
 def get_student():
   student = {}
   student["name"] = input("name: ")
-  student["classs"] = input("house: ")
+  student["classs"] = input("class: ")
   return student
 if __name__ == "__main__":
   main()
