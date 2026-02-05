@@ -1,6 +1,7 @@
 # Python Foundations 🐍
 
-This repository documents my journey learning Python fundamentals through **CS50P (Harvard)** and hands-on practice.
+This repository documents my journey learning Python fundamentals through CS50’s Introduction to Programming with Python (CS50P) by Harvard University,
+self-studied via YouTube, along with hands-on practice.
 
 It contains small programs, experiments, and exercises that helped me understand core programming concepts.  
 The code is beginner-level by design — this repo is about **learning, consistency, and growth**.
